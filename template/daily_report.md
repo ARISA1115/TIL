@@ -19,4 +19,5 @@
 
 ## 学習時間
 - Today: h
+- week : h m
 - Total: h
